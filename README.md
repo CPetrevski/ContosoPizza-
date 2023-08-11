@@ -1,4 +1,3 @@
-# ContosoPizza-
 ASP.NET Core Web API
 
 # ContosoPizza - RESTfull API with ASP.NET Core Controllers
